@@ -2,9 +2,9 @@
 
 // データベース接続情報
 $db_server = 'mysql3101.db.sakura.ne.jp';  // さくらのサーバー名
-$db_name = 'tawagram_kadai09_db2';
-$db_user = 'tawagram_kadai09_db2';
-$db_password = 'fdms1995';
+$db_name = '';
+$db_user = '';
+$db_password = '';
 
 // DB接続
 try {
